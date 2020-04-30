@@ -16,7 +16,7 @@
     "angular-bootstrap": "^0.12.2",
     "angular-new-router": "^0.5.3",
     "angular-spinner": "^0.6.2",
-    "jquery": "^2.1.4",
+    "jquery": "^3.5.0",
     "ng-infinite-scroll": "^1.2.0",
     "spin": "0.0.1"
   }
